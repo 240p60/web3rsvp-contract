@@ -1,0 +1,22 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "Full-stack RSVP dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rralhoev/web3rsvp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rralhoev/web3rsvp/issues"
+  },
+  "homepage": "https://github.com/rralhoev/web3rsvp#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
